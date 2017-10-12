@@ -1,0 +1,107 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7633
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\lgnpr\Downloads\SBHacks Prep\First Build\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\lgnpr\Downloads\SBHacks Prep\First Build\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\lgnpr\Downloads\SBHacks Prep\First Build\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\lgnpr\Downloads\SBHacks Prep\First Build\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\lgnpr\Downloads\SBHacks Prep\First Build\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\lgnpr\Downloads\SBHacks Prep\First Build\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\lgnpr\Downloads\SBHacks Prep\First Build\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\lgnpr\Downloads\SBHacks Prep\First Build\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\lgnpr\Downloads\SBHacks Prep\First Build\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\lgnpr\Downloads\SBHacks Prep\First Build\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.026 seconds
+Platform assembly: C:\Users\lgnpr\Downloads\SBHacks Prep\First Build\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\lgnpr\Downloads\SBHacks Prep\First Build\test_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 59Hz; virtual: 2560x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.183604 ms
+Moon Base song started.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lucky song started.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3158 -> priority: 1 
+Lucky song started.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.132242 ms
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 883.
+Total: 0.532542 ms (FindLiveObjects: 0.067950 ms CreateObjectMapping: 0.043061 ms MarkObjects: 0.356740 ms  DeleteObjects: 0.064395 ms)
+
+Moon Base song started.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lucky song started.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lucky song started.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.905875 ms
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 883.
+Total: 0.556641 ms (FindLiveObjects: 0.063604 ms CreateObjectMapping: 0.030419 ms MarkObjects: 0.393481 ms  DeleteObjects: 0.068345 ms)
+
+Moon Base song started.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lucky song started.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lucky song started.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.059949 ms
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 883.
+Total: 0.553481 ms (FindLiveObjects: 0.065185 ms CreateObjectMapping: 0.036345 ms MarkObjects: 0.385975 ms  DeleteObjects: 0.065580 ms)
+
+Moon Base song started.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lucky song started.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Starboy song started.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Marble Soda song started.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+I Won't Let You Down song started.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Lone Digger song started.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

@@ -1,0 +1,74 @@
+// Created by Carlos Arturo Rodriguez Silva (Legend) 
+// Contact: ryolxgame@gmail.com or http://facebook.com/legendxh
+
+// Rhythmic Objects
+
+// Rhythmic Objects is a very easy to use script to make 
+// Rhythmic GameObjects or UI Elements in your 
+// Unity application/game.
+
+// It allows a custom scale for each object, and turn off the script when you want.
+
+
+// Video:
+// https://www.youtube.com/watch?v=8mBZPROvR-o
+
+
+//  - Tutorial - How to make a Rhythmic Object //
+
+// 1. Create a GameObject or UI Element (GameObject > 3D Object > Cube)
+// 2. Select that GameObject and add the component "Rhythmic Object" (Component > Audio > Rhythmic Object)
+// 3. If the editor are playing press "Insert to Base", else, ignore this
+// 4. Play the game
+
+
+
+
+
+//  - Tutorial - How to delete a Rhythmic Object //
+
+// 1. Select the Rhythmic Object
+// 2. Remove the script "Rhythmic Object" or press "Delete from Base" 
+
+// Note: "Delete from Base" will only delete from execution, when you reset the game/editor it will be loaded as Rhythmic Object again.
+
+
+// Set your custom variables for each GameObject you want (Make sure to deactivate "Use Global Scales" in "Rhythmic Objects" script to use custom values)
+
+
+
+
+
+// - Tutorial - How to add another song //
+
+// 1. Make sure you have a Song List
+// 2. Create a GameObject
+// 3. Add "SongData" script to that GameObject
+// 4. Set the BPM and Offset for that song
+
+
+// - Tutorial - How to load a song
+// 1. In Another Script use FindObjectOfType<LoadSongs> ().LoadSong (yourSongName);
+
+// - Important -
+// The name of the song what do you want to load must be the same of one of your "SongData" songName variable.
+
+
+
+// FAQ: 
+
+// What is BPM?
+// Beats per minute (BPM) is a unit typically used as a measure of tempo in music and heart rate. 
+
+// What is the correct BPM for my Song?
+// Please search that BPM in dedicated pages for that,  https://songbpm.com/ or https://www.bpmdatabase.com/
+
+// My Song are not here, what should i do?
+// Tap the BPM using this page: http://www.bpm-counter.com/
+
+// What is the correct off-set for my song?
+// 1. Activate "Metronome" in "Rhythmic Objects" script
+// 2. Increase the off-set (+10) to match the metronome with the rhythm of the song.
+// If not result, increase again off-set +10
+
+// Note: The BPM must be specified correctly, else, the off-set will never match with the rhythm.
